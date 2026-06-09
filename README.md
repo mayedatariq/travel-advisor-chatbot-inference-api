@@ -11,3 +11,4 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Try out the chatbot: https://huggingface.co/spaces/mayedatariq/my_first_space
